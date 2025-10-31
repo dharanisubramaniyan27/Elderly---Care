@@ -1,34 +1,42 @@
 # Elderly---Care
 A MedTech platform with medication alerts, emergency SMS, and location-based support using  Twilio and Google APIs.
+
+
 **key Features**
 **SOS Emergency Alerts:**
 
 A voice-activated SOS feature that enables users to send emergency alerts to pre-defined contacts with just a voice command. This ensures that help is always a voice away in critical situations.
+
 **Medication Reminders:**
 
 Never forget your medications! The system sends timely SMS reminders with details about dosage, time, and frequency. Users can easily add, edit, or remove medicines, ensuring they stay on track with their health routines.
+
 **Meet Link Generator:**
 
 Create secure meet links with a simple click. Whether you're connecting with friends, family, or healthcare professionals, the system generates unique links for seamless virtual meetings.
+
 **Personalized Health Recommendations:**
 
 A recommendation engine that provides tailored suggestions for diet, nutrition, workouts, and more. The system uses machine learning models to analyze user data and offer personalized health advice to improve well-being.
+
 **User Management:**
 
 An easy-to-use account registration and login system that ensures a personalized experience. Users can access their health data, track medications, and manage recommendations through their accounts.
+
 **Intuitive Dashboard:**
 
 A user-friendly dashboard that gives an overview of health data, upcoming medication reminders, and the status of active SOS requests. The interface is designed for easy navigation and quick access to key features.
 
 **Technologies Used**
-Backend: Node.js, Express.js, Python
-Database: MongoDB
-Authentication: Bcrypt.js, Express-session
-Scheduling: Node-schedule, Twilio
-Frontend: HTML, CSS, JavaScript
-APIs: Twilio for SMS, Google APIs for meeting links
-SSL: Custom SSL Certificates (cert.pem, key.pem)
-Others: dotenv for environment variables, fs, readline-sync for utility operations
+
+**Backend:** Node.js, Express.js, Python
+**Database:** MongoDB
+**Authentication:** Bcrypt.js, Express-session
+**Scheduling:** Node-schedule, Twilio
+**Frontend:** HTML, CSS, JavaScript
+**APIs:** Twilio for SMS, Google APIs for meeting links
+**SSL:** Custom SSL Certificates (cert.pem, key.pem)
+**Others:** dotenv for environment variables, fs, readline-sync for utility operations
 
 
 
